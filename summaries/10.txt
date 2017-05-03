@@ -1,0 +1,1 @@
+Google announced today that it will begin running tests of a new way to deliver search results to mobile users with slow connections. The tests will begin in two weeks, the search giant says, and will involve displaying optimized web pages to users who Google detects are visiting from devices on slower mobile connections, like 2G, for example.
